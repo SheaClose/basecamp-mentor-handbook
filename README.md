@@ -18,6 +18,8 @@ There are a number of tools you can use to meet with your students. Here is a sm
 * [codeshare.io](https://codeshare.io/)/[Scrimba](https://scrimba.com/)/[repl.it](https://repl.it/) for testing their learning.
 * [Calendly](https://calendly.com/) for organizing meetings with students.
 
+These all have one thing in common; Just drop a link through email or Slack to a student and you won't have to worry about any configuration.
+
 These are just a few that are the most popular but feel free to use other tools to run your meetings.
 
 ## Student Introductions
@@ -36,7 +38,7 @@ I look forward to helping you become a great developer,
 
 NAME"
 
-##Goals
+## Goals
 
 The main goals for Basecamp meetings are as follows: 
 
